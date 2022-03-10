@@ -24,3 +24,6 @@
   Customer wants to pay with car but my system broken so customer has to payment
   with mobile or cash. Or new payment system are developed. In this scenerios , I
   added or changed my code easily.
+
+## UML CLASS DIAGRAM
+<img src="https://github.com/AycanKaya/DesignPatterns/blob/3318f5768eaaa476154db5d2178256d8f58e3bd5/UML%20CLASS%20DIAGRAM.jpg" width="auto">
